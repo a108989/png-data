@@ -17,7 +17,7 @@
 # REPOSITORY_NAME: my-stats-org/sdg-data
 #
 # In addition, to set up automated production releases, you would need to
-# replace STAGING_ORGANISATION and STAGING_SITE_REPOSITORY below.
+# replace STAGING_ORGANISATION and STAGING_SITE_REPOSITORY below. 
 #
 # ****************************************************************************
 
